@@ -1,0 +1,9 @@
+Latency percentiles (usec)
+	50.0th: 6
+	75.0th: 52
+	90.0th: 7752
+	95.0th: 12368
+	*99.0th: 20128
+	99.5th: 23584
+	99.9th: 28512
+	min=0, max=30770
